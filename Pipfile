@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pymupdf = "*"
+tk = "*"
+django = "*"
+djangorestframework = "*"
+celery = "*"
+django-celery-beat = "*"
+django-celery-results = "*"
+gunicorn = "*"
+psycopg2-binary = "*"
+gevent = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
