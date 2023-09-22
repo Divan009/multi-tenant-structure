@@ -84,7 +84,7 @@ DATABASES = {
         "NAME": "tenant1",
         "USER": "tenant1",
         "PASSWORD": "tenant1",
-        "HOST": "tenant1_database",
+        "HOST": "localhost",
         "PORT": 5432,
     }
 }
